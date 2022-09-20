@@ -14,6 +14,6 @@
     - Classification
     - Canva link to presentation in README.md
 2. Zillow Zestimate
-    - Part 1: Regression (Solo Project, no presentation)
+    - Part 1: Regression (Solo Project)
     - Part 2: Clustering and Regression (Paired Project)
     - Link to the presentation of the final report available in the README.md
