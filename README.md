@@ -14,6 +14,6 @@
     - Classification
     - Canva link to presentation in README.md
 2. Zillow Zestimate
-    - Part 1: Regression (Solo Project)
+    - Part 1: Regression (Solo Project, no presentation)
     - Part 2: Clustering and Regression (Paired Project)
-    - Presentation of final Jupyter Notebook Report coming soon!
+    - Link to the presentation of the final report available in the README.md
