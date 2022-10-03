@@ -10,10 +10,18 @@
 
 ### Projects Pinned Below:
 1. Telco Churn
-    - Solo Project
-    - Classification
+    - Individual Project
+    - Classification Machine Learning Model
     - Canva link to presentation in README.md
 2. Zillow Zestimate
-    - Part 1: Regression (Solo Project)
+    - Part 1: Regression (Individual Project)
     - Part 2: Clustering and Regression (Paired Project)
     - Link to the presentation of the final report available in the README.md
+3. WineSpectator Wine Scores
+    - Individual Project
+    - Classification with some NLP
+    - Web scraping 
+4. Illinois Temperature
+    - Individual Project
+    - Time Series
+    - Built under 'short notice' conditions
