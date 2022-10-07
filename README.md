@@ -25,3 +25,6 @@
     - Individual Project
     - Time Series
     - Built under 'short notice' conditions
+5. Curriculum Access Log
+    - Individual Project
+    - Anomaly Detection
