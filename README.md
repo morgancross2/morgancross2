@@ -15,7 +15,7 @@
     - Canva link to presentation in README.md
 2. Zillow Zestimate
     - Part 1: Regression (Individual Project)
-    - Part 2: Clustering and Regression (Paired Project)
+    - Part 2: Clustering and Regression (Paired Project) found [here](https://github.com/zillow-cluster-project/zillow-cluster-repo)
     - Link to the presentation of the final report available in the README.md
 3. WineSpectator Wine Scores
     - Individual Project
@@ -28,3 +28,7 @@
 5. Curriculum Access Log
     - Individual Project
     - Anomaly Detection
+6. GitHub READMEs
+    - Paired Project
+    - Canva link to presentation in README.md
+    - Natural Langauge Processing
