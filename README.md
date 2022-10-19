@@ -30,5 +30,5 @@
     - Anomaly Detection
 6. GitHub READMEs
     - Paired Project
-    - Canva link to presentation in README.md
+    - Link to canva presentation in README.md
     - Natural Langauge Processing
