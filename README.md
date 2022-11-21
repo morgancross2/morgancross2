@@ -1,6 +1,6 @@
 # Hi, I'm Morgan. 👋
 
-## Future Data Scientist  |  Veteran  |  Cat Lady
+## Data Scientist  |  Veteran  |  Dog Mom
 
 - 🌱 I’m currently learning Data Science with Code Up!
 - 🔭 I’m currently working on my technical skills in order to land a job in the field starting January 2023.
@@ -31,3 +31,7 @@
     - Paired Project
     - Link to canva presentation in README.md
     - Classification with NLP to predict repository programming language using README files
+7. [Myers-Briggs Twitter Assessment](https://github.com/twitter-personality-predictor/capstone-project/blob/main/final_report.ipynb)
+    - 4-person team
+    - Classification using NLP to predict personality domain
+    - Web scraped from Twitter
