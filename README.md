@@ -2,7 +2,7 @@
 
 ## Data Scientist  |  Veteran  |  Dog Mom
 
-- 🌱 I’m currently learning Data Science with Code Up!
+- 🌱 I recently graduated the Data Science Program with CodeUp!
 - 🔭 I’m currently working on my technical skills in order to land a job in the field starting January 2023.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/morganecross/) or morgan.e.cross2@gmail.com
 
